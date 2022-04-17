@@ -1,5 +1,7 @@
+![MasterHead](https://drive.google.com/file/d/1ISDWD5wz2_OcC63w1MJmqVWvgRfgdNk5/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm Kundan kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kundankk7&label=Profile%20views&color=0e75b6&style=flat" alt="kundankk7" /> </p>
 
